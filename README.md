@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Competitive Programming**
 
-- 💬 Ask me about **DSA, Java, JDBC, Hibernate, Spring, SpringBoot, MicroServices, HTML, CSS, JavaScript, Node**
+- 💬 Ask me about **DSA, Java, HTML, CSS, JavaScript, React, JDBC, Hibernate, Spring, SpringBoot, MicroServices, Node, MySQL, MongoDB**
 
 - 📫 How to reach me **shubhamupadhyay8299@gmail.com**
 
